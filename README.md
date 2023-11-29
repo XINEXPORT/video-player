@@ -12,7 +12,7 @@
 
 
 * Copy the embed link <br>
-* ![image](https://github.com/XINEXPORT/video-player/assets/40744735/5a4b6ef7-9a70-4925-b130-23b77bcdeb69)
+![image](https://github.com/XINEXPORT/video-player/assets/40744735/5a4b6ef7-9a70-4925-b130-23b77bcdeb69)
 
 
 Home Page <br>
