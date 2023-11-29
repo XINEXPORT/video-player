@@ -1,7 +1,7 @@
 # video-player
 
 
-# Note! The video link input field will only allow an embedded youtube link. See below on where to find the embed link.
+## Note! The video link input field will only allow an embedded youtube link. See below on where to find the embed link.
 
 * Click Share <br>
  ![image](https://github.com/XINEXPORT/video-player/assets/40744735/d0b77767-daa9-4dc1-9ad8-015136f34246)
