@@ -17,7 +17,7 @@ useEffect(()=>{getSavedVideos()}, [])
 
 
 const addContent=()=>{
-const newContent = [...content,{video: video, artist: artist, title: title }];
+const newContent = [{video: video, artist: artist, title: title }, ...content];
 setContent(newContent);
 setArtist('');
 setVideo('');
@@ -27,7 +27,7 @@ console.log(newContent);
 
 const artistInfo = content.map((music)=>
 {return (<div key={music.artist}>
-  <iframe width="560" height="315" src={music.video}></iframe>
+  <iframe width="700" height="500" src={music.video} style={{display: "flex", margin: "3rem"}}></iframe>
   <span>{music.artist}</span>
   <span>{music.title}</span>
   </div>)});
